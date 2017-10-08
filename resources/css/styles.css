@@ -3,17 +3,18 @@
 }
 
 
-h1 {
-  color: SeaGreen;
+.header {
+	background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
-
-
-p, 
-li {
-  font-size: 18px;
-}
-
 
 a {
   text-decoration: none;
+}
+
+.center {
+	text-align: center;
+}
+
+nav li {
+	list-style: none;
 }
