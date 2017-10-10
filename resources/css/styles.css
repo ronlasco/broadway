@@ -8,7 +8,7 @@
 	background-position: center;
 }
 
-nav li {
+nav li, .contact li {
 	list-style: none;
 }
 
@@ -27,9 +27,19 @@ h3 {
 	font-weight: bold;
 }
 
+main p {
+	font-size: 14px;
+}
+
+.footer  {
+	background-color: dimgray;
+	text-align: left;
+}
+
 a {
   text-decoration: underline;
   color: white;
+  font-size: 18px;
 }
 
 .center {
